@@ -1,3 +1,4 @@
+# youtube:https://www.youtube.com/watch?v=b2n8j5KuYEM
 # Hello and welcome to DeepStream SDK-6.1 on Ubuntu 20.04 LTS installation guide!!!
 
 In this guide we will walk you through an entire process of installing DeepStream SDK in your dGPU system. Before you proceed, you need to have the below mentioned prequisites fulfilled to complete installation setup successfully.
